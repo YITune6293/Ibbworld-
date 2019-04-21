@@ -1,4 +1,4 @@
-*.tar
+Ibbworld *.tar
 *.tar.*
 *.jar
 *.exe
@@ -8,6 +8,6 @@
 *.log
 *.log.*
 *.sig
-
+Ibbworld 
 pkg/
 src/
